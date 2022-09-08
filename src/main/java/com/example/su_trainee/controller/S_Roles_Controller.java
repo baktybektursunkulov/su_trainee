@@ -17,6 +17,7 @@ import java.util.List;
 public class S_Roles_Controller {
   @Autowired
   S_Roles_Service s_roles_service;
+  int s=0;
 
   @GetMapping("/ads")
   public String AdById(){
