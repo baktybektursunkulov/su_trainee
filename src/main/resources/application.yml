@@ -1,7 +1,7 @@
 app:
   name: Tech Interface - Swagger and Profiles Tutorial
 server:
-  port: 80
+  port: 8091
 
 
 spring:
