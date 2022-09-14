@@ -1,6 +1,7 @@
 package com.example.su_trainee.config.jwt;
 
-import com.example.demoauth.service.UserDetailsImpl;
+
+import com.example.su_trainee.service.UserDetailsImpl;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.MalformedJwtException;
 import io.jsonwebtoken.SignatureAlgorithm;
